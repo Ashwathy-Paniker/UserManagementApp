@@ -1,0 +1,19 @@
+Features:
+
+1. Display the User details
+     -Name
+     -Email ID
+     -Address
+     -Mobile No
+     -Department (Added DropDown Menu)
+
+2.  Upload Profile Image    
+3.  Add User
+4.  Delete User
+5.  Update User
+6.  Search User using search bar
+7.  Pagination 
+8.  Backend Validation using Express validator
+9.  Responsiveness
+10. Page NotFound
+11. Lazy Loading
